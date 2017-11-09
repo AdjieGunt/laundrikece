@@ -1,0 +1,26 @@
+
+#sidebarmenu {
+    /* padding:10px; */
+    /* height: 100%; */
+}
+
+#sidebarmenu ul {
+    list-style: none;
+    padding:0px;
+}
+
+#sidebarmenu ul li{
+    padding:15px;
+    background-color: #022d52;
+    color:#fff;
+}
+
+#sidebarmenu ul li:hover{
+    padding:15px;
+    background-color: #033d52;
+    color:#fff;
+}
+
+#sidebarmenu ul li a {
+    color:#fff;
+}
