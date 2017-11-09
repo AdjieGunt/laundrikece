@@ -28,8 +28,7 @@
     Transaksi
     </p>
     <ul class="menu-list">
-    <li><a>Laundri Masuk</a></li>
-    <li><a>Laundri Keluar</a></li>
+    <li><a>Transaksi</a></li>
     <li><a>Laporan</a></li>
     </ul>
     <p class="menu-label">

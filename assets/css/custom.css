@@ -24,3 +24,21 @@
 #sidebarmenu ul li a {
     color:#fff;
 }
+
+.modal-content {
+    background-color: #fff;
+}
+
+.transaksi-info span {
+    font-weight: bold;
+}
+
+.transaksi-info {
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+.transaksi-info p {
+    margin-bottom:0px !important;
+    font-size: 13px;
+}

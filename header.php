@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="assets/css/bulma.css">
+  <link rel="stylesheet" href="assets/css/font-awesome.css">  
   <link rel="stylesheet" href="assets/css/custom.css">  
   
 </head>
@@ -16,8 +17,8 @@
 
 <div class="container">
     <div class='columns'>
-        <div class='column is-3'>
+        <div class='column is-2'>
             <?php include 'layout/menu.php'; ?>
         </div>
-        <div class='column is-9'>
+        <div class='column is-10'>
         
