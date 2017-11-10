@@ -4,8 +4,8 @@
     </p>
     <ul class="menu-list">
     <li><a>Dashboard</a></li>
-    <li ><a >Customers</a></li>
-    <li ><a >Daftar Layanan</a></li>    
+    <li ><a href='customers.php'>Customers</a></li>
+    <li ><a href='services.php'>Daftar Layanan</a></li>    
     </ul>
     <!-- <p class="menu-label">
     Administration
@@ -28,7 +28,7 @@
     Transaksi
     </p>
     <ul class="menu-list">
-    <li><a>Transaksi</a></li>
+    <li><a href='transaction.php'>Transaksi</a></li>
     <li><a>Laporan</a></li>
     </ul>
     <p class="menu-label">
